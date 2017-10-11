@@ -1,0 +1,29 @@
+body {
+  background-color: black;
+  color: white;
+}
+h1 {
+  text-align: center;
+}
+
+.home-tab {
+  display: none;
+}
+.adopt-tab {
+  display: none;
+}
+.about-tab {
+  display: none;
+}
+.faq-tab {
+  display: none;
+}
+
+.video {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.padding-bottom {
+  padding-bottom: 20px;
+}
